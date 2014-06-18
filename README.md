@@ -1,4 +1,4 @@
-ocaml-array_list
-================
 
-'Just for fun' ArrayList Java-like implementation in an Imperative Ocaml way
+
+
+'Just for fun' implementation of Java's ArrayList in an Imperative Ocaml way
